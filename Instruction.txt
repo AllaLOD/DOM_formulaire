@@ -1,0 +1,19 @@
+Objectif
+
+Manipuler le DOM pour pouvoir supprimer ou ajouter des tâches à faire.
+
+ - Suppression
+
+👉 Mettez en place une mécanique pour supprimer l’élément sur lequel nous avons cliqué de la TODOList.
+
+
+
+3 - Ajout
+
+👉 Mettez en place un formulaire contenant:
+
+    Titre
+    Catégorie
+    Date
+👉 A la validation de ce formulaire, ajoutez l’élément dans le DOM.
+
